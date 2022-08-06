@@ -1,1 +1,1 @@
-# Statisticd_and_R
+# Statistics_and_R
