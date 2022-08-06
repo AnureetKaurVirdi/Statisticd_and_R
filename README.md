@@ -15,6 +15,7 @@ Intercept(Pr(>|t|) = 5.08e-08)
 This indicates that vehicle length and ground clearance have statistically significant impact on fuel efficiency(mpg).The  intercept is statistically significant, which means that their are other factors present which may contribute to the variation in mpg values. 
 
 2. **Is the slope of the linear model considered to be zero? Why or why not?**
+
 In linear regression analysis:
 
 H0 : The slope of the linear model is zero
